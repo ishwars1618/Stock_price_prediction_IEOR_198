@@ -1,6 +1,6 @@
 # Abstract
 
-For this project, I chose the option of making my own trading algorithm. The algorithm in my project relies on Fourier transform to extract patterns of repetition in stock market data. The price of an asset can fluctuate around the fair price for the following reason: when buyers realize the actual price is overvalued compared to its fair, they stop buying and start selling, driving down the price; inversely, when buyers realize the actual price is undervalued compared to its fair, they stop selling and start buying, driving up the price. This behavior would translate into a harmonic motion of sorts around the fair price, so the algorithm can take advantage of this pattern.
+For this project, I chose the option of making my own trading algorithm. The algorithm in my project relies on extracting patterns of repetition in stock market data. The price of an asset can fluctuate around the fair price for the following reason: when buyers realize the actual price is overvalued compared to its fair, they stop buying and start selling, driving down the price; inversely, when buyers realize the actual price is undervalued compared to its fair, they stop selling and start buying, driving up the price. This behavior would translate into a harmonic motion of sorts around the fair price, so the algorithm can take advantage of this pattern.
 
 # Methods
 
